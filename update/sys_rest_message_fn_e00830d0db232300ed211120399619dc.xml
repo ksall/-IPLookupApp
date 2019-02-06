@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Challenge</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>IPInfo [ Challenge ]</qualified_name>
+        <rest_endpoint>https://fileinfo.com/extension/geo</rest_endpoint>
+        <rest_message display_value="IPInfo">b824b0d0db232300ed2111203996190b</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-06 16:59:24</sys_created_on>
+        <sys_id>e00830d0db232300ed211120399619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Challenge</sys_name>
+        <sys_package display_value="IPLookup" source="x_298598_iplookup">e9043090db232300ed2111203996195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">e9043090db232300ed2111203996195d</sys_scope>
+        <sys_update_name>sys_rest_message_fn_e00830d0db232300ed211120399619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-06 16:59:24</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
